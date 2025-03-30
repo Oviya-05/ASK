@@ -5,7 +5,7 @@
 ## Tools required:
   * Colab (for executing Python code)
   * Libraries: NumPy, Matplotlib
-  * 
+    
 ## Program:
 ~~~
 import numpy as np
