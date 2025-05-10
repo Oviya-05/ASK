@@ -52,6 +52,8 @@ plt.show()
 ## Output Waveform:
 
 ![image](https://github.com/user-attachments/assets/ff05241a-ab5a-4f0f-9f23-981c44b62df6)
+![image](https://github.com/user-attachments/assets/eda90338-8e27-4348-9379-3ecec6075944)
+
 
 ## Results:
   The binary data is successfully modulated using FSK, with different frequencies representing logic 0 and logic 1. The output waveform clearly shows the frequency shift corresponding to the input data.
